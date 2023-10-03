@@ -1,0 +1,20 @@
+body {
+    padding: 3em;
+    font-family: 'Poppins',sans-serif;
+    
+}
+
+.judul {
+    text-align: center;
+    line-height: 10px;
+
+}
+
+.subjudul {
+    text-align: center;
+}
+
+.cerpen {
+    padding: 10px;
+    line-height: normal;
+}
